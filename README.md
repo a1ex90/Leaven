@@ -1,4 +1,4 @@
-[](path-to-header-img)
+![](https://raw.githubusercontent.com/a1ex90/Leaven/master/assets/img/header.png)
 # LEAVEN
 LEAVEN is an easy-to-use and lightweight surface and volume mesh sampling standalone application tailored for the needs of particle-based simulation. It aims to lower one entry barrier for starting with particle-based simulations while still pose a benefit to advanced users. LEAVEN has methods for random uniform surface sampling, as well as random uniform volume sampling and grid-based volume sampling. LEAVEN's methods can also be included as a library in other projects. It is the implementation from [SS21].
 
@@ -16,7 +16,7 @@ LEAVEN is an easy-to-use and lightweight surface and volume mesh sampling standa
 The project ist based on [CMake](https://cmake.org/). Makefiles can be generated using [CMake](https://cmake.org/) and compiled with a C++ compiler. The project has been tested on Ubuntu and Windows 10 with Visual Studio.
  
 ## Usage UI
-[](link-to-ui-img)
+![](https://raw.githubusercontent.com/a1ex90/Leaven/master/assets/img/ui.png)
 ### View Manipulation
 
 Input | Action
