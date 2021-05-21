@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>colors.js</file>
+        <file>layout.js</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Components/SettingsLabel.qml</file>
+        <file>Components/SwitchButton.qml</file>
+        <file>Components/SettingsInput.qml</file>
+        <file>Components/SettingsExpander.qml</file>
+        <file>Components/LeavenIconButton.qml</file>
+        <file>Components/TextIconButton.qml</file>
+    </qresource>
+    <qresource>
+        <file>../ext/QTOpenGLWindow/qrc/</file>
+    </qresource>
+    <qresource>
+        <file>icons.qrc</file>
+    </qresource>
+</RCC>

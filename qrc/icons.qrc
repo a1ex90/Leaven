@@ -1,0 +1,10 @@
+<RCC>
+	<qresource>
+		<file alias="spinner.gif">../assets/icons/spinner.gif</file>
+		<file alias="load.svg">../assets/icons/load.svg</file>
+		<file alias="save.svg">../assets/icons/save.svg</file>
+		<file alias="plus.svg">../assets/icons/plus.svg</file>
+		<file alias="minus.svg">../assets/icons/minus.svg</file>
+		<file alias="work.svg">../assets/icons/work.svg</file>
+	</qresource>
+</RCC>	

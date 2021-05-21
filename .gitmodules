@@ -1,0 +1,6 @@
+[submodule "ext/QTOpenGLWindow"]
+	path = ext/QTOpenGLWindow
+	url = https://github.com/a1ex90/QTOpenGLWindow
+[submodule "lib/ext/Discregrid"]
+	path = lib/ext/Discregrid
+	url = https://github.com/InteractiveComputerGraphics/Discregrid.git
