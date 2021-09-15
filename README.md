@@ -49,7 +49,7 @@ std::vector<Eigen::Matrix<float, 3, 1>> sampling = VolumeSampler::sampleMeshRand
 ```
 
 ## References
-- [SS21] A. Sommer and U. Schwanecke, 2021. "LEAVEN - Lightweight Surface and Volume Mesh Sampling Application for Particle-based Simulations", WSCG 21 (to be published)
+- [SS21] A. Sommer and U. Schwanecke, 2021. "LEAVEN - Lightweight Surface and Volume Mesh Sampling Application for Particle-based Simulations", WSCG 2021: full papers proceedings: 29. International Conference in Central Europe on Computer Graphics, Visualization and Computer Vision, p. 155-160.
 - [KDBB17] D. Koschier, C. Deul, M. Brand and J. Bender, 2017. "An hp-Adaptive Discretization Algorithm for Signed Distance Field Generation", IEEE Transactions on Visualiztion and Computer Graphics 23, 10, 2208-2221.
 - [BWWM10] J. Bowers, R. Wang, L. Wei and D. Maletz, 2010. "Parallel Poisson Disk Sampling with Spectrum Analysis on Surfaces", ACM Trans. Graph 29.
 
